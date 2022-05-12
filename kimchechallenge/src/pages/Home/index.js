@@ -1,7 +1,15 @@
 import React from "react";
 import "./style.css";
+import { Card } from "../../components/Card";
 
 export const Home = () => {
+
+  const showItems = () => {
+    return(
+      <Card />
+    );
+  }
+
   return (
     <div className="home-bg">
       <div className="home-header">
@@ -16,6 +24,14 @@ export const Home = () => {
           <button>Continent</button>
           <button>Language</button>
         </div>
+      </div>
+      <div className="home-items">
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
       </div>
     </div>
   );

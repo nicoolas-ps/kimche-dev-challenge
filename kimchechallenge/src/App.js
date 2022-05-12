@@ -4,7 +4,7 @@ import { ApolloProvider } from "@apollo/react-hooks";
 import { Home } from "./pages/Home";
 
 const client = new ApolloClient({
-  uri: "https://48p1r2roz4.sse.codesandbox.io",
+  uri: "https://countries.trevorblades.com",
 });
 
 const App = () => (
