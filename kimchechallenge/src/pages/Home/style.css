@@ -78,3 +78,11 @@
   background-color: #FCA311;
   color: #14213D;
 }
+
+.home-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap;
+  margin: 50px auto;
+}
