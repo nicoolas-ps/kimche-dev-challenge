@@ -1,7 +1,7 @@
 # Desafío para Software Engineers
 
-Nombre postulante: Nicolás Pino Silva
-Link a la app en producción: https://country-search-nicoolas-ps.vercel.app
+Nombre postulante: [Nicolás Pino Silva]
+Link a la app en producción: [https://country-search-nicoolas-ps.vercel.app]
 
 ## Instrucciones
 
