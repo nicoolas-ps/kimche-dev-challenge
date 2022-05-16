@@ -45,6 +45,7 @@ export const Home = () => {
       countries.map((country, key) => {
         return(
           <Card 
+            code={country.code}
             name={country.name} 
             emoji={country.emoji} 
             native={country.native}
